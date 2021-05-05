@@ -1,2 +1,2 @@
 # template-project
-Homework 3 template project
+homework 3 template project
